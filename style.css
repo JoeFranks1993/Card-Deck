@@ -1,0 +1,15 @@
+﻿.activecard 
+{
+    width: 72px;
+    height: 96px;
+    display: block;
+    position: fixed;
+    margin: 0; 
+}
+
+#wrapper {
+    background-image: url(images/cardtable.jpg);
+      height:100%;
+  width:100%;
+
+}
